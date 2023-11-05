@@ -4,8 +4,8 @@ import chuckNorris2 from './media/chuckNorris2.png';
 import './App.css';
 import RandomJoke from './API/RandomJoke';
 import { SocialIcon } from 'react-social-icons'
-import 'react-social-icons/vimeo'
-import 'react-social-icons/meetup'
+import 'react-social-icons/vimeo';
+import 'react-social-icons/meetup';
 
 
 function App() {
