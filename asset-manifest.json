@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Chuck-Norris-Jokes/static/css/main.14de733f.css",
-    "main.js": "/Chuck-Norris-Jokes/static/js/main.40950f48.js",
-    "static/js/787.d4aba7ab.chunk.js": "/Chuck-Norris-Jokes/static/js/787.d4aba7ab.chunk.js",
-    "static/media/chuckNorris1.png": "/Chuck-Norris-Jokes/static/media/chuckNorris1.20d2bd4e4c93fa3b87e9.png",
-    "static/media/chuckNorris2.png": "/Chuck-Norris-Jokes/static/media/chuckNorris2.2e71359e3cf4dbf5dbcd.png",
-    "index.html": "/Chuck-Norris-Jokes/index.html",
-    "main.14de733f.css.map": "/Chuck-Norris-Jokes/static/css/main.14de733f.css.map",
-    "main.40950f48.js.map": "/Chuck-Norris-Jokes/static/js/main.40950f48.js.map",
-    "787.d4aba7ab.chunk.js.map": "/Chuck-Norris-Jokes/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/criscaldeiraa/chuck-norris-jokes/static/css/main.14de733f.css",
+    "main.js": "/criscaldeiraa/chuck-norris-jokes/static/js/main.dfdd82a5.js",
+    "static/js/787.d4aba7ab.chunk.js": "/criscaldeiraa/chuck-norris-jokes/static/js/787.d4aba7ab.chunk.js",
+    "static/media/chuckNorris1.png": "/criscaldeiraa/chuck-norris-jokes/static/media/chuckNorris1.20d2bd4e4c93fa3b87e9.png",
+    "static/media/chuckNorris2.png": "/criscaldeiraa/chuck-norris-jokes/static/media/chuckNorris2.2e71359e3cf4dbf5dbcd.png",
+    "index.html": "/criscaldeiraa/chuck-norris-jokes/index.html",
+    "main.14de733f.css.map": "/criscaldeiraa/chuck-norris-jokes/static/css/main.14de733f.css.map",
+    "main.dfdd82a5.js.map": "/criscaldeiraa/chuck-norris-jokes/static/js/main.dfdd82a5.js.map",
+    "787.d4aba7ab.chunk.js.map": "/criscaldeiraa/chuck-norris-jokes/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14de733f.css",
-    "static/js/main.40950f48.js"
+    "static/js/main.dfdd82a5.js"
   ]
 }
